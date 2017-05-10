@@ -2,6 +2,8 @@
 ##### An ESP8266 controlled Neopixel ring, imitating the Sun
 -------------------------------------------------------------
 
+<p align="center"> <a href="http://wolftech.me/wp-content/uploads/2017/05/Terrarium.jpg"><img src="https://i1.wp.com/wolftech.me/wp-content/uploads/2017/05/Terrarium.jpg?fit=300%2C225"></a> </p>
+
 #### What is it?
 * Arduino code for using an ESP8266 to light up a few WS2812 LEDs
 * Fetches time from NTP servers and adjusts light according to time of day
